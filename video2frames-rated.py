@@ -1,6 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Mar 28 14:06:43 2019
+This code section will capture frames from the sky video
+and save the images in .jpg format in the assigned directory.
+We can change the rate of frames being captured from the video
+in "frameRate".
 @author: dbanja2
 """
 
