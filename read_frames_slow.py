@@ -11,7 +11,7 @@ import cv2
 # construct the argument parse and parse the arguments
 ap = argparse.ArgumentParser()
 ap.add_argument("-v", "--video", required=True,
-	help="C:/Users/dbanja2/Downloads")
+	help="C:/Users/username/yourVideoDirectory")
 args = vars(ap.parse_args())
  
 # open a pointer to the video stream and start the FPS timer
