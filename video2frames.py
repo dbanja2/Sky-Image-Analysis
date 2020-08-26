@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Mar 28 14:06:43 2019
+This code section captures the video from sky videos
+and save in .jpg format.
 @author: dbanja2
 """
 
