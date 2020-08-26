@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Apr 17 16:14:59 2019
-
+This code section will test the sky images and
+print the prediction accuracy for the given image
+category, eg. cloudy, overcast or sunny.
 @author: dbanja2
 """
 
