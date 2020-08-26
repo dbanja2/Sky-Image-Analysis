@@ -1,10 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Apr 16, 2018 
 @author: dbanja2
 """
-
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
@@ -13,7 +11,7 @@ import cv2
 import random # to shuffle our training data
 import pickle
 
-DATADIR = "C:/Users/dbanja2/Downloads/SkyImages"
+DATADIR = "C:/Users/username/yourSkyImagesLocation"
 CATEGORIES = ["Cloudy", "OverCast", "Sunny"] 
 #index value is 0, 1 and 2 for cloudy, overcast and sunny
 for category  in CATEGORIES:
